@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# News APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -47,24 +47,24 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### App Name
+This is a web application built with React that uses Alen Ai, Material-UI, and Words-to-Numbers dependencies to provide an interactive experience for users.
 
-### Analyzing the Bundle Size
+### Features
+* User can interact with the app to perform certain tasks
+* Alen Ai provides natural language processing capabilities
+* Material-UI is used for styling and UI components
+Words-to-Numbers is used to convert textual numbers to numeric ones
+* useState and useEffect hooks are used for state management
+* createRef hook is used for DOM manipulation
+Usage
+Clone the repository
+Run npm install to install dependencies
+Run npm start to start the application
+Navigate to http://localhost:3000 in your browser
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Contributing
+Contributions are always welcome! If you would like to contribute, please submit a pull request.
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### License
+This project is licensed under the MIT License.
